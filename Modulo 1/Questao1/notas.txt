@@ -1,0 +1,5 @@
+João: 8
+Maria: 9
+Ana: 7
+Carlos: 10
+Maria: 10
